@@ -2,6 +2,9 @@
 Thumbs.db
 ehthumbs.db
 
+#ignora node modele
+/node_modules
+
 # Folder config file
 Desktop.ini
 
@@ -45,5 +48,3 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
-#ignora node modele
-/node_modules
