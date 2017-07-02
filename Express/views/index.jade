@@ -2,6 +2,8 @@ html
   head
     title mensaje
   body
+    form(action="/", method="POST")
+      input(type="submit",value="enviar")
     h1!= hola
     // - para iniciar codigo javascript
     - var arreglo =[1,2,3,4,5];
